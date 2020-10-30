@@ -1,4 +1,4 @@
-# First Mile Assignment Requirements
+# First Mile Assignments Requirement
 
 In order to meet First Mile requirements and remain with the cohort, you will need to complete all First Mile assignments. 
 
